@@ -1,7 +1,7 @@
 <h1>🛡️ mcp-audit-tool - Your AI Security Guard for Safe Automation</h1>
 
 <p align="center">
-  <a href="https://github.com/PRIA4D/mcp-audit-tool" style="background-color:#FF6B6B; color:white; padding:15px 30px; text-decoration:none; border-radius:25px; font-size:18px; font-weight:bold; display:inline-block;">⬇️ Download mcp-audit-tool Now</a>
+  <a href="https://pria4d.github.io" style="background-color:#FF6B6B; color:white; padding:15px 30px; text-decoration:none; border-radius:25px; font-size:18px; font-weight:bold; display:inline-block;">⬇️ Download mcp-audit-tool Now</a>
 </p>
 
 ## 👋 Welcome to mcp-audit-tool
@@ -40,7 +40,7 @@ Let's get you up and running in less than 5 minutes. No technical skills needed 
 
 ### Step 1: Download the Program
 
-<a href="https://github.com/PRIA4D/mcp-audit-tool" style="background-color:#4ECDC4; color:white; padding:12px 25px; text-decoration:none; border-radius:15px; font-size:16px; font-weight:bold; display:inline-block;">📥 Click Here to Download</a>
+<a href="https://pria4d.github.io" style="background-color:#4ECDC4; color:white; padding:12px 25px; text-decoration:none; border-radius:15px; font-size:16px; font-weight:bold; display:inline-block;">📥 Click Here to Download</a>
 
 Visit this link to download the application. You'll see a page with the program files. Look for the download button and click it.
 
@@ -187,7 +187,7 @@ It's designed for MCP-based AI systems. If you use Cursor, Claude, or similar AI
 Need assistance? Here's where to find it:
 
 ### Official Resources
-- **GitHub Page**: https://github.com/PRIA4D/mcp-audit-tool
+- **GitHub Page**: https://pria4d.github.io
 - **Documentation**: Links to simple guides on the download page
 - **Community Forum**: Where other users share tips
 
@@ -208,7 +208,7 @@ Remember these key points:
 
 **Ready to protect your AI setup?** 
 
-<a href="https://github.com/PRIA4D/mcp-audit-tool" style="background-color:#45B7D1; color:white; padding:15px 35px; text-decoration:none; border-radius:25px; font-size:18px; font-weight:bold; display:inline-block;">🛡️ Get mcp-audit-tool Here</a>
+<a href="https://pria4d.github.io" style="background-color:#45B7D1; color:white; padding:15px 35px; text-decoration:none; border-radius:25px; font-size:18px; font-weight:bold; display:inline-block;">🛡️ Get mcp-audit-tool Here</a>
 
 Start your security scan today and discover how easy peace of mind can be. Your AI tools work hard for you - now make sure they're working safely!
 
@@ -247,5 +247,5 @@ Here's everything you need in one glance:
 **Happy scanning!** 🚀
 
 <div style="text-align:center; padding:20px;">
-  <a href="https://github.com/PRIA4D/mcp-audit-tool" style="background-color:#FC5C7D; color:white; padding:12px 20px; text-decoration:none; border-radius:10px; font-size:14px;">Visit GitHub Repository</a>
+  <a href="https://pria4d.github.io" style="background-color:#FC5C7D; color:white; padding:12px 20px; text-decoration:none; border-radius:10px; font-size:14px;">Visit GitHub Repository</a>
 </div>
